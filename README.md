@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0052d4,50:4364f7,100:00c6ff&height=230&section=header&text=Raja%20Nandhana%20M&fontSize=64&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Raja Nandhana M" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0052d4,50:4364f7,100:00c6ff&height=110&section=header&text=Raja%20Nandhana%20M&fontSize=38&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="70%" alt="Raja Nandhana M" />
 
 <!-- PHOTO: upload your picture to assets/profile.jpg in this repo, then delete the two comment markers around the line below
 <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Rajanandhana/Rajanandhana/main/assets/profile.jpg&w=300&h=300&fit=cover&mask=circle" width="160" alt="Raja Nandhana M" />
