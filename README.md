@@ -1,36 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:11998e,50:38ef7d,100:f9d423&height=180&section=header&animation=scaleIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0052d4,50:4364f7,100:00c6ff&height=230&section=header&text=Raja%20Nandhana%20M&fontSize=64&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Raja Nandhana M" />
 
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/profile.jpg&w=300&h=300&fit=cover&mask=circle" width="160" alt="Raja Nandhana M" />
-
-<h1>Raja Nandhana M</h1>
+<!-- PHOTO: upload your picture to assets/profile.jpg in this repo, then delete the two comment markers around the line below
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Rajanandhana/Rajanandhana/main/assets/profile.jpg&w=300&h=300&fit=cover&mask=circle" width="160" alt="Raja Nandhana M" />
+-->
 
 <h3>☕ Java Developer &nbsp;|&nbsp; 🌱 Spring Boot &nbsp;|&nbsp; 🗄️ MySQL &nbsp;|&nbsp; 🔌 REST APIs</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=38EF7D&center=true&vCenter=true&width=820&height=50&repeat=true&lines=%3E+Hello+World%2C+I'm+Raja+Nandhana;%3E+CSE+Student+at+VSB+Engineering+College;%3E+I+build+with+Java+and+Spring+Boot;%3E+Pega+National+Internship+2026;%3E+Open+to+software+development+roles" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=820&height=50&repeat=true&lines=%3E+Hello+World%2C+I+am+Raja+Nandhana;%3E+CSE+Student+at+VSB+Engineering+College;%3E+I+build+with+Java+and+Spring+Boot;%3E+Pega+National+Internship+2026;%3E+Open+to+software+development+roles" alt="Typing animation" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E.%20CSE-VSB%20Engineering%20College-11998E?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
-<img src="https://img.shields.io/badge/CGPA-8.0-38EF7D?style=for-the-badge&labelColor=0d1117" alt="CGPA" />
-<img src="https://img.shields.io/badge/Batch-2028-F9A825?style=for-the-badge" alt="Batch" />
-<img src="https://img.shields.io/badge/Dindigul-Tamil%20Nadu-00B8D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/B.E.%20CSE-VSB%20Engineering%20College-0052D4?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
+<img src="https://img.shields.io/badge/CGPA-8.0-0096C7?style=for-the-badge&labelColor=0d1117" alt="CGPA" />
+<img src="https://img.shields.io/badge/Batch-2028-4364F7?style=for-the-badge" alt="Batch" />
+<img src="https://img.shields.io/badge/Dindigul-Tamil%20Nadu-00B4DB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
 <br/><br/>
 
 <a href="mailto:rajanandhanamarimuthu@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/raja-nandhana-m-814a0a389"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-11998E?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="https://github.com/Rajanandhana?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0052D4?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=11998e&style=flat-square" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=Rajanandhana&label=Profile%20Views&color=0052d4&style=flat-square" alt="Views" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" alt="Open to work" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:f9d423&height=70&section=header&reversal=true" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052d4,50:4364f7,100:00c6ff&height=70&section=header&reversal=true" width="100%" alt="divider" />
 
 ## 👨‍💻 About Me
 
@@ -68,7 +68,7 @@ public class RajaNandhana {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:f9d423&height=70&section=header&reversal=true" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052d4,50:4364f7,100:00c6ff&height=70&section=header&reversal=true" width="100%" alt="divider" />
 
 ## 🛠️ Tech Stack
 
@@ -78,20 +78,20 @@ public class RajaNandhana {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Data%20Structures-11998E?style=for-the-badge" alt="DSA" />
-<img src="https://img.shields.io/badge/OOP-00B8D4?style=for-the-badge" alt="OOP" />
-<img src="https://img.shields.io/badge/REST%20APIs-38EF7D?style=for-the-badge&labelColor=0d1117" alt="REST" />
+<img src="https://img.shields.io/badge/Data%20Structures-0052D4?style=for-the-badge" alt="DSA" />
+<img src="https://img.shields.io/badge/OOP-00B4DB?style=for-the-badge" alt="OOP" />
+<img src="https://img.shields.io/badge/REST%20APIs-0096C7?style=for-the-badge&labelColor=0d1117" alt="REST" />
 <img src="https://img.shields.io/badge/Spring%20Boot%20Web%20%2B%20JDBC-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Fetch%20API-F9A825?style=for-the-badge&logo=javascript&logoColor=black" alt="Fetch API" />
-<img src="https://img.shields.io/badge/Pega%20Low--Code-F9D423?style=for-the-badge&logoColor=black" alt="Pega" />
+<img src="https://img.shields.io/badge/Fetch%20API-4364F7?style=for-the-badge&logo=javascript&logoColor=black" alt="Fetch API" />
+<img src="https://img.shields.io/badge/Pega%20Low--Code-1E88E5?style=for-the-badge&logoColor=black" alt="Pega" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:f9d423&height=70&section=header&reversal=true" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052d4,50:4364f7,100:00c6ff&height=70&section=header&reversal=true" width="100%" alt="divider" />
 
 ## 🚀 Featured Projects
 
-### 🎓 [College Attendance Management System](https://github.com/YOUR_USERNAME?tab=repositories)
+### 🎓 [College Attendance Management System](https://github.com/Rajanandhana?tab=repositories)
 
 A web portal for professors and departments to manage daily student attendance.
 
@@ -114,7 +114,7 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 [Gamified Goal Achievement System](https://github.com/YOUR_USERNAME?tab=repositories)
+### 🎯 [Gamified Goal Achievement System](https://github.com/Rajanandhana?tab=repositories)
 **AI-powered Java application**
 
 - 🏆 Track goals, earn rewards, monitor progress
@@ -125,7 +125,7 @@ flowchart LR
 </td>
 <td width="50%" valign="top">
 
-### ❌⭕ [Tic-Tac-Toe Game](https://github.com/YOUR_USERNAME?tab=repositories)
+### ❌⭕ [Tic-Tac-Toe Game](https://github.com/Rajanandhana?tab=repositories)
 **Python game with complete logic**
 
 - 🎮 Player interaction and winner detection
@@ -137,13 +137,12 @@ flowchart LR
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:f9d423&height=70&section=header&reversal=true" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052d4,50:4364f7,100:00c6ff&height=70&section=header&reversal=true" width="100%" alt="divider" />
 
 ## 🧭 Learning Journey
 
 | When | Milestone |
 |:---|:---|
-| 🎓 **2024** | Started B.E. Computer Science and Engineering at VSB Engineering College |
 | 🐍 **Jul 2025** | Python Foundation Certification, Infosys Springboard |
 | 🌐 **Dec 2025** | Introduction to IoT and Digital Transformation, Cisco Networking Academy |
 | ☕ **Jun - Oct 2026** | Programming in Java, NPTEL |
@@ -169,37 +168,37 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Problem%20Solving-11998E?style=flat-square" alt="Problem Solving" />
-<img src="https://img.shields.io/badge/Communication-00B8D4?style=flat-square" alt="Communication" />
-<img src="https://img.shields.io/badge/Adaptability-F9A825?style=flat-square" alt="Adaptability" />
-<img src="https://img.shields.io/badge/Teamwork-38EF7D?style=flat-square&labelColor=0d1117" alt="Teamwork" />
+<img src="https://img.shields.io/badge/Problem%20Solving-0052D4?style=flat-square" alt="Problem Solving" />
+<img src="https://img.shields.io/badge/Communication-00B4DB?style=flat-square" alt="Communication" />
+<img src="https://img.shields.io/badge/Adaptability-4364F7?style=flat-square" alt="Adaptability" />
+<img src="https://img.shields.io/badge/Teamwork-0096C7?style=flat-square&labelColor=0d1117" alt="Teamwork" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:f9d423&height=70&section=header&reversal=true" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052d4,50:4364f7,100:00c6ff&height=70&section=header&reversal=true" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=38EF7D&icon_color=F9D423&text_color=C9D1D9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=38EF7D&text_color=C9D1D9" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajanandhana&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C6FF&icon_color=6FB1FC&text_color=C9D1D9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanandhana&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=C9D1D9" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=38EF7D&fire=F9D423&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38EF7D&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Rajanandhana&hide_border=true&background=0D1117&ring=00C6FF&fire=6FB1FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rajanandhana&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" alt="Trophies" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=38EF7D&line=11998E&point=FFFFFF&area=true&area_color=11998E&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajanandhana&bg_color=0D1117&color=00C6FF&line=0052D4&point=FFFFFF&area=true&area_color=0052D4&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity graph" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:f9d423&height=70&section=header&reversal=true" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052d4,50:4364f7,100:00c6ff&height=70&section=header&reversal=true" width="100%" alt="divider" />
 
 ## 🎯 Currently Focused On
 
@@ -218,12 +217,12 @@ flowchart LR
 <a href="mailto:rajanandhanamarimuthu@gmail.com"><img src="https://img.shields.io/badge/Gmail-rajanandhanamarimuthu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <br/>
 <a href="https://www.linkedin.com/in/raja-nandhana-m-814a0a389"><img src="https://img.shields.io/badge/LinkedIn-Raja%20Nandhana%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Rajanandhana"><img src="https://img.shields.io/badge/GitHub-Rajanandhana-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=F9D423&center=true&vCenter=true&width=760&lines=Learn.+Build.+Improve.+Repeat.;Turning+ideas+into+working+applications;Open+to+internships+and+collaboration" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=6FB1FC&center=true&vCenter=true&width=760&lines=Learn.+Build.+Improve.+Repeat.;Turning+ideas+into+working+applications;Open+to+internships+and+collaboration" alt="Footer typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:f9d423&height=130&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052d4,50:4364f7,100:00c6ff&height=130&section=footer" width="100%" alt="footer" />
 
 </div>
